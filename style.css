@@ -1,6 +1,7 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #0d6efd;
+  font-family: 'algerian';
 }
 
 #projects {
@@ -9,4 +10,7 @@
 
 section {
   padding-top: 5rem;
+}
+.Aboutme {
+  font-family: algerian;
 }
